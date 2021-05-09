@@ -1,0 +1,1 @@
+# Linkedin-Learning-Courses-Downloader.UpdateManager.Prerelease
